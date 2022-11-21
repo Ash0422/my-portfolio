@@ -6,6 +6,7 @@
 .html {
     scroll-behavior: smooth;
 }
+/*Navbar Section*/
 .navbar {
     display: flex;
     justify-content: center;
